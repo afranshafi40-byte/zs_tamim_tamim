@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: zs-tamim-hasan
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
